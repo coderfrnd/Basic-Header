@@ -37,7 +37,7 @@ export async function POST(req) {
 
         const { name, email, mobile } = await req.body;
 
-        const newUser = await new Register({
+        const newUser = new Register({
             name,
             email,
             mobile
