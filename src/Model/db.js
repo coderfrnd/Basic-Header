@@ -1,1 +1,0 @@
-export const attached ="mongodb+srv://20EI02:20EI02@cluster0.2txll1g.mongodb.net/test?retryWrites=true&w=majority"
