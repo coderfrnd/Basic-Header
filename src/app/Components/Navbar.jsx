@@ -15,6 +15,8 @@ function Navbar() {
     router.push("/login");
   };
 
+  
+
   return (
     <div className="w-full">
       <nav className="bg-white border-gray-200 dark:bg-gray-900 w-full flex">
